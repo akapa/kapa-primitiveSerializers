@@ -5,7 +5,7 @@
   "main": "primitiveSerializers.js",
   "keywords": [
     "xml",
-    "xsd"
+    "xsd",
     "serializer"
   ],
   "authors": [

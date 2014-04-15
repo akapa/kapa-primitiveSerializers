@@ -1,0 +1,22 @@
+{
+  "name": "kapa/primitiveSerializers",
+  "version": "0.0.1",
+  "description": "XML serializer for basic XSD types",
+  "main": "primitiveSerializers.js",
+  "keywords": [
+    "xml",
+    "xsd"
+    "serializer"
+  ],
+  "authors": [
+    "Kapa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
